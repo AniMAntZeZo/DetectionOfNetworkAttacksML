@@ -19,4 +19,5 @@ CNN-LSTM
 
 CNN-LSTM-more
 
-![image](https://github.com/user-attachments/assets/e7ec877c-7e55-4699-91bc-3d93e5cc90f6)
+![image](https://github.com/user-attachments/assets/8c5a27b4-4b99-447f-b782-9341e4f497d1)
+
